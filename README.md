@@ -1,8 +1,6 @@
 [![Header](https://github.com/fxcvd/fxcvd/blob/main/assets/header.png)](https://github.com/fxcvd/fxcvd/blob/main/README.md)
 
 # Hello there! I'm fxcvd
----
-
 ## Skills
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
