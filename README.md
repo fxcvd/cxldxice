@@ -7,6 +7,11 @@
 ![Swift](https://img.shields.io/badge/Swift-gray?style=for-the-badge&logo=swift)
 ![PHP](https://img.shields.io/badge/PHP-gray?style=for-the-badge&logo=php)
 
+### Design:
+![Figma](https://img.shields.io/badge/Figma-gray?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-gray?style=for-the-badge&logo=adobe&logoColor=blue)
+![AE](https://img.shields.io/badge/After%20Effects-gray?style=for-the-badge&logo=adobe&logoColor=blueviolet)
+
 ### Frameworks:
 ![Flask](https://img.shields.io/badge/Flask-gray?style=for-the-badge&logo=flask)
 ![Django](https://img.shields.io/badge/Django-gray?style=for-the-badge&logo=django&logoColor=green)
