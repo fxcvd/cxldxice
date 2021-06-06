@@ -23,3 +23,12 @@
 ![Discord](https://img.shields.io/badge/DISCORD%20API%20/%20GAME%20SDK-gray?style=for-the-badge&logo=discord)
 ![YandexMaps](https://img.shields.io/badge/YANDEX%20MAPS-gray?style=for-the-badge&logo=yandex)
 ![Telegram](https://img.shields.io/badge/Telegram%20API-gray?style=for-the-badge&logo=telegram)
+
+---
+# Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=fxcvd&show_icons=true&hide_title=true&theme=tokyonight)
+
+---
+# Social
+[![VK](https://img.shields.io/badge/VK-@fxcvd-success?logo=vk)](https://vk.com/fxcvd)
+[![DiscordUser](https://img.shields.io/badge/Discord-@fxcvd-success?logo=discord)](https://discord.gg/QDeyTKYt4k)
