@@ -27,8 +27,9 @@
 ---
 # Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=fxcvd&show_icons=true&hide_title=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 
 ---
 # Social
-[![VK](https://img.shields.io/badge/VK-@fxcvd-success?logo=vk)](https://vk.com/fxcvd)
-[![DiscordUser](https://img.shields.io/badge/Discord-@fxcvd-success?logo=discord)](https://discord.gg/QDeyTKYt4k)
+[![VK](https://img.shields.io/badge/VK-@fxcvd-success?logo=vk)](https://vk.com/fxcvd)  
+[![DiscordUser](https://img.shields.io/badge/Discord-fxcvd%231577-success?logo=discord)](https://discord.gg/QDeyTKYt4k)
