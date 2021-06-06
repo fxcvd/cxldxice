@@ -27,7 +27,7 @@
 ---
 # Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=fxcvd&show_icons=true&hide_title=true&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fxcvd&layout=compact&theme=tokyonight)
 
 ---
 # Social
